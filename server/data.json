@@ -1,0 +1,41 @@
+[
+  {
+    "id":"1",
+    "title":"The Great Gasby",
+    "thumbnail":"GG.jpg",
+    "slug":"The Great Gasby",
+    "Author":"F. Scott Fitzgerald",
+    "stars":"5",
+    "category":["romance", "science"]
+  },
+
+  {
+    "id":"2",
+    "title":"Mastery",
+    "thumbnail":"MA.jpg",
+    "slug":"48 Laws of Power",
+    "Author":"Robert Greene",
+    "stars":"6",
+    "category":["social", "psychology"]
+  },
+
+  {
+    "id":"3",
+    "title":"The Rationale Male",
+    "thumbnail":"RM.jpg",
+    "slug":"The Rationale Male",
+    "Author":"Rollo Tomassi",
+    "stars":"5",
+    "category":["romance", "psychology"]
+  },
+
+  {
+    "id":"4",
+    "title":"Basic Economics",
+    "thumbnail":"BE.jpg",
+    "slug":"Basic Economics",
+    "Author":"Thomas Sowell",
+    "stars":"5",
+    "category":["science", "Economics"]
+  }
+]
